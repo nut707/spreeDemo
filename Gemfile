@@ -14,7 +14,6 @@ gem 'spree', '3.1.1'
 gem 'spree_auth_devise', '3.1.0'
 gem 'spree_i18n', github: 'spree-contrib/spree_i18n', branch: '3-1-stable'
 
-gem 'slim'
 gem "slim-rails"
 
 group :development, :test do
