@@ -369,6 +369,7 @@ DEPENDENCIES
   puma
   rails (= 4.2.7.1)
   sass-rails (~> 5.0)
+  slim
   slim-rails
   spree (= 3.1.1)
   spree_auth_devise (= 3.1.0)
